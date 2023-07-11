@@ -12,7 +12,7 @@
 - CSS
 - JavaScript
 
-[🔗 Clique aqui para acessar](https://brunakarina.github.io./super-mario-bros/)
+[🔗 Clique aqui para acessar](https://brunakarina.github.io/super-mario-bros/)
 
 ## 📫 Contato
 
